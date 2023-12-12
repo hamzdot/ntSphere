@@ -14,7 +14,7 @@ ntSphere is an iOS and iPadOS Shortcuts that creates a comprehensive and intuiti
    - **Network Ping Test:** Ensure the stability of your internet connection, allowing you to test the quality of your connection.
 
 ### 4. VPN
-   - **On/Off VPN:** A shortcut to Enable or Disable 1.1.1.1 as needed to maintain online privacy and security.
+   - **On/Off VPN:** A shortcut to Enable or Disable [1.1.1.1](https://apps.apple.com/id/app/1-1-1-1-faster-internet/id1423538627) as needed to maintain online privacy and security.
 
 ### 5. Password
    - **WiFi Password Management:** Easily store and share your WiFi password with friends or family.
