@@ -1,3 +1,4 @@
+![app icon](https://github.com/hamzdot/ntSphere/blob/iOS-and-iPadOS/.github/readme-img/ntSphere.png)
 # ntSphere
 
 ntSphere is an iOS and iPadOS Shortcuts that creates a comprehensive and intuitive sphere of connection for managing and understanding your network.
