@@ -1,5 +1,6 @@
-![app icon](https://github.com/hamzdot/ntSphere/blob/iOS-and-iPadOS/.github/ntSphere.png)
 # ntSphere
+
+![app icon](https://github.com/hamzdot/ntSphere/blob/iOS-and-iPadOS/.github/ntSphere.png)
 
 ntSphere is an iOS and iPadOS Shortcuts that creates a comprehensive and intuitive sphere of connection for managing and understanding your network.
 
@@ -37,6 +38,15 @@ ntSphere is an iOS and iPadOS Shortcuts that creates a comprehensive and intuiti
 [![Watch the Video](https://img.youtube.com/vi/LIoDrAZ2BaM/0.jpg)](https://www.youtube.com/watch?v=LIoDrAZ2BaM)
 
 </details>
+
+<details>
+  <summary>Add Password Menu</summary>
+  
+[![Watch the Video](https://img.youtube.com/vi/6-54gojulws/0.jpg)](https://www.youtube.com/watch?v=6-54gojulws?feature=shared)
+
+</details>
+
+    Only added up to 3 actions for the Password menu, you can add/remove them if you don't think it's necessary.
 
 ## Credit
 
