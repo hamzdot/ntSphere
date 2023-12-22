@@ -5,31 +5,39 @@ ntSphere is an iOS and iPadOS Shortcuts that creates a comprehensive and intuiti
 
 ## Key Features
 
-### 1. IP Address
+### IP Address
    - **Local and External:** Easily check your local and external IP addresses, along with information about your network provider.
 
-### 2. Speedtest
+### Speedtest
    - **Internet Speed:** Measure your internet speed in real-time.
 
-### 3. Ping! Me
+### Ping! Me
    - **Network Ping Test:** Ensure the stability of your internet connection, allowing you to test the quality of your connection.
 
-### 4. VPN
+### VPN
    - **On/Off VPN:** A shortcut to Enable or Disable [1.1.1.1](https://apps.apple.com/id/app/1-1-1-1-faster-internet/id1423538627) as needed to maintain online privacy and security.
 
-### 5. Password
+### Password
    - **WiFi Password Management:** Easily store and share your WiFi password with friends or family.
 
-### 6. Router Admin
+### Router Admin
    - **Direct Access to Router Admin:** Navigate directly to the router admin without having to remember complex addresses.
 
-## Getting Started
+## Installatiion and Setup
 
-To get started with ntSphere, follow these simple steps:
+### Getting Started
+   <a href="https://routinehub.co/shortcut/17471/" target="_blank">
+  <img src="https://github.com/hamzdot/ntSphere/blob/iOS-and-iPadOS/.github/ntSphere-download.png" alt="Download from RoutineHub" height="90" />
+</a>
 
-1. [Download](https://routinehub.co/shortcut/17471/) from Routinehub.
-2. Performs several setup steps
-3. Done.
+### Password
+<details>
+  <summary>Setup Password</summary>
+  
+  <!-- toggle -->
+  
+  1. 
+</details>
 
 ## Credit
 
