@@ -50,6 +50,8 @@ ntSphere is an iOS and iPadOS Shortcuts that creates a comprehensive and intuiti
 
 ## Credit
 
-icon by [Freepik](https://www.flaticon.com/authors/freepik)
+- icon by [Freepik](https://www.flaticon.com/authors/freepik)
+
+- badges made with [MediaKit](https://routinehub.co/shortcut/1911/)
 
 ---
