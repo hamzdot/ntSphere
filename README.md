@@ -23,20 +23,19 @@ ntSphere is an iOS and iPadOS Shortcuts that creates a comprehensive and intuiti
 ### Router Admin
    - **Direct Access to Router Admin:** Navigate directly to the router admin without having to remember complex addresses.
 
-## Installatiion and Setup
+## Getting Startedand
 
-### Getting Started
+### Installatiion
    <a href="https://routinehub.co/shortcut/17471/" target="_blank">
   <img src="https://github.com/hamzdot/ntSphere/blob/iOS-and-iPadOS/.github/ntSphere-download.png" alt="Download from RoutineHub" height="90" />
 </a>
 
-### Password
+### Setup
 <details>
   <summary>Setup Password</summary>
   
-  <!-- toggle -->
-  
-  1. 
+[![Watch the Video](https://img.youtube.com/vi/LIoDrAZ2BaM/0.jpg)](https://www.youtube.com/watch?v=LIoDrAZ2BaM)
+
 </details>
 
 ## Credit
