@@ -46,7 +46,7 @@ ntSphere is an iOS and iPadOS Shortcuts that creates a comprehensive and intuiti
 
 </details>
 
-    Only added up to 3 actions for the Password menu, you can add/remove them if you don't think it's necessary.
+    I only added up to 3 actions for the Password menu, you can add/remove them if you don't think it's necessary.
 
 ## Credit
 
